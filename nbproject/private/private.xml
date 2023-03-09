@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/project/POSSystem/POSSystem/src/possystem/view/Login.java</file>
-            <file>file:/E:/project/POSSystem/POSSystem/src/possystem/view/Dashboard.java</file>
-            <file>file:/E:/project/POSSystem/POSSystem/src/possystem/utility/UiKits.java</file>
+            <file>file:/E:/POS/Pharmacy-sales-pos/src/possystem/utility/Config.java</file>
+            <file>file:/E:/POS/Pharmacy-sales-pos/src/possystem/view/Login.java</file>
+            <file>file:/E:/POS/Pharmacy-sales-pos/src/possystem/POSSystem.java</file>
+            <file>file:/E:/POS/Pharmacy-sales-pos/src/possystem/view/Dashboard.java</file>
         </group>
     </open-files>
 </project-private>
