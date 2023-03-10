@@ -4,16 +4,16 @@ The system is build for Academic class project. The system is built for Academic
 
   ## Technology Used
 <div>
-<img src="https://i.im.ge/2023/03/10/7vtMnD.Swing.png" alt="Img" width="50px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Swing.png" alt="Img" width="50px">
 Swing
 </div>
 <div>
-<img src="https://i.im.ge/2023/03/10/7vPexY.Java.png" alt="" width="50px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Java.png" alt="" width="50px">
 Java
 </div>
 
 <div>
-<img src="https://i.im.ge/2023/03/10/7vtTd4.mysql.png" alt="" width="50px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/mysql.png" alt="" width="50px">
 MySql
 </div>
     
@@ -23,7 +23,7 @@ MySql
 ## Login
 Before using this application people need to login. After logging in this application will track that using and sales record as per logged user.
 </div>
-<img src="https://i.im.ge/2023/03/10/7vPzPF.Login.png" alt="" width="500px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Login.png" alt="" width="500px">
 </div>
 <hr>
 
@@ -35,9 +35,9 @@ Todays Expenses: The expenses section displays the total of today's Expenses.
 Todays Profilt: Users are able to check today's profit.
 Latest Capital: User can see how much capital is left in your store.
     
-<img src="https://i.im.ge/2023/03/10/7vPKxS.Desh.png" alt="" width="700px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Desh.png" alt="" width="700px">
 The date range section will give you access to check sales, profit, and Expenses reports.
-<img src="https://i.im.ge/2023/03/10/7vPkd6.Get-Deshbord-update-by-date.png" alt="" width="700px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Get%20Deshbord%20update%20by%20date.png" alt="" width="700px">
 <br>
 <hr>
 
@@ -51,8 +51,8 @@ After that, your item is listed in a table with the default quantity. Change the
 The Right sidebar will give you dynamic change features with able you to set up discounts on an individual item. And Instant it will visible the new price. After that click on the update button to add the new price in table.
             
 <div>
-<img src="https://i.im.ge/2023/03/10/7vPJ9X.New-Deshboard.png" alt="" width="700px">
-<img src="https://i.im.ge/2023/03/10/7vPg5x.D-AutoSearch.png" alt="" width="700px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/New%20Deshboard.png" alt="" width="700px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/D%20AutoSearch.png" alt="" width="700px">
 <img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/1%20sales.png" alt="" width="700px">
 </div>
 <br>
@@ -60,7 +60,7 @@ The Right sidebar will give you dynamic change features with able you to set up 
 
 ## Confirm sales
 After adding as much as the product your customers asked for and getting payment then click on confirm button. Before confirm it must be added the customer name and phone number for tracking the customer records.
-<img src="https://i.im.ge/2023/03/10/7vPn88.Sales-Confirm-popup.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Sales%20Confirm%20popup.png" alt="" width="700">
 <br>
 <hr>
 
@@ -68,8 +68,8 @@ After adding as much as the product your customers asked for and getting payment
 ## Add and Update Product
 This section will give you access to add a new item to your inventory or you will be able to update an existing items. 
 <div>
-<img src="https://i.im.ge/2023/03/10/7vPGLM.Update-product.png" alt="" width="700">
-<img src="https://i.im.ge/2023/03/10/7vPBQh.Update-field-loaded.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Update%20product.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Update%20field%20loaded.png" alt="" width="700">
 </div>
 
 
@@ -80,8 +80,8 @@ This section will give you access to add a new item to your inventory or you wil
 ## Expense Tracker
 Using Expense tracker and get every days or month or year cost. Also, Check which user is involved in this expense. 
 <div>
-<img src="https://i.im.ge/2023/03/10/7vP88a.Cost-tab.png" alt="" width="700">
-<img src="https://i.im.ge/2023/03/10/7vPWMJ.Cost-Search-by-date.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Cost%20tab.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Cost%20Search%20by%20date.png" alt="" width="700">
 </div>
 <br>
 <hr>
@@ -89,8 +89,8 @@ Using Expense tracker and get every days or month or year cost. Also, Check whic
 ## Track selling record and Customar
 Track selling record by using order Id. Also, You will get customer information, order information and date time.  
 <div>
-<img src="https://i.im.ge/2023/03/10/7vPcrG.Customar-Sales-Record.png" alt="" width="700">
-<img src="https://i.im.ge/2023/03/10/7vPVJz.Filter-Customar-by-Calender.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Customar%20Sales%20Record.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Filter%20Customar%20by%20Calender.png" alt="" width="700">
 </div>
 
                 
@@ -100,7 +100,7 @@ Track selling record by using order Id. Also, You will get customer information,
 ## Log out
 The user must log out of the system after completing the task.
 <div>
-<img src="https://i.im.ge/2023/03/10/7vPvu9.Logout.png" alt="" width="700">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/Logout.png" alt="" width="700">
 </div>
 
 <br>
