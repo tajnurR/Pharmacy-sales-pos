@@ -3,16 +3,15 @@
     <p style="font-size: 20px;">The system is build for Academic class project. The system is built for Academic class projects. Where I'm trying to build a sales management system. The application contains Sales Dashboard, Adds a new product, deletes an old product, and updates an Exiting Product. Also, you will get Sales Repost by date, Extra cost record, Revinue, and stock dashboard. </p>
     <br>
     <hr>
-    <div style="background-color: #8d99ae; color: #fff; line-height: 40px; font-size: 25px;">
+    <div >
         <h3>Technology Used</h3>
     </div>
     
-    <P style="font-size: 20px;">
+    <P>
     
     <table>
         <tr>
             <td>
-                <!-- <a href="https://im.ge/i/7vPCJ0"><img src="https://i.im.ge/2023/03/10/7vPCJ0.linkedin.md.png" alt="linkedin" border="0"></a> -->
 
                 <img src="https://i.im.ge/2023/03/10/7vtMnD.Swing.png" alt="Img" width="50px">
             </td>
