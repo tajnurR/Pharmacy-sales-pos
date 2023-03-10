@@ -53,7 +53,7 @@ The Right sidebar will give you dynamic change features with able you to set up 
 <div>
 <img src="https://i.im.ge/2023/03/10/7vPJ9X.New-Deshboard.png" alt="" width="700px">
 <img src="https://i.im.ge/2023/03/10/7vPg5x.D-AutoSearch.png" alt="" width="700px">
-<img src="https://i.im.ge/2023/03/10/7vPZIy.1-sales.png" alt="" width="700px">
+<img src="https://github.com/tajnurR/Pharmacy-sales-pos/blob/main/files/ss/1%20sales.png" alt="" width="700px">
 </div>
 <br>
 <hr>
